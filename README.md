@@ -8,5 +8,5 @@ felipeferrazpublic / README.md
  
 - Meus principais projetos estão aqui -> {Portifólio ainda em construção}
   
-- 
+- Tecnologias que domino:
 
